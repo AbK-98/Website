@@ -1713,7 +1713,6 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 4.5em);
 		width: 45em;
-		background-color: #000000
 	}
 
 		.container.xsmall {
