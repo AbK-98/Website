@@ -33,7 +33,9 @@ body {
 	line-height: 1;
 	background-color: #ffffff; 
 }
-
+.image main {
+	background-color: #000000; 
+}
 ol, ul {
 	list-style: none;
 }
